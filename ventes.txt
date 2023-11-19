@@ -1,0 +1,6 @@
+2023-01-01 Paris ProduitA 100.0
+2022-01-02 Lyon ProduitB 150.0
+2022-01-03 Marseille ProduitA 120.0
+2023-01-04 Paris ProduitC 80.0
+2023-01-04 Lyon ProduitB 200.0
+2022-01-05 Marseille ProduitC 90.0
